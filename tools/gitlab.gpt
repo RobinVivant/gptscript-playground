@@ -1,5 +1,7 @@
 Name: GitLab API Agent
 Description: An agent that can interact with an on-premise GitLab API
+Model Name: openai/gpt-4o-mini from github.com/RobinVivant/gptscript-openrouter-provider
+
 Tools: sys.exec
 Chat: true
 
